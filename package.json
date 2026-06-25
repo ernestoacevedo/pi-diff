@@ -1,0 +1,11 @@
+{
+  "name": "pi-diff",
+  "version": "0.1.0",
+  "description": "Side-by-side diff renderer for pi's edit tool (opencode-style)",
+  "type": "module",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
