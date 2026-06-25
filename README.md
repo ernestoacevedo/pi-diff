@@ -15,7 +15,7 @@ edit src/App.vue
 ## Install
 
 ```bash
-pi install git:github.com/tu-usuario/pi-diff
+pi install git:github.com/ernestoacevedo/pi-diff
 ```
 
 Or locally:
@@ -39,5 +39,5 @@ pi -e ./pi-diff/extensions/side-by-side-diff.ts
 ## Uninstall
 
 ```bash
-pi remove git:github.com/tu-usuario/pi-diff
+pi remove git:github.com/ernestoacevedo/pi-diff
 ```
